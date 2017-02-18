@@ -518,7 +518,7 @@ Start
 	print square 
 	
 	if n > 10 then
-		cube n^3
+		cube = n^3
 		print cube
 	else
 		do nothing
