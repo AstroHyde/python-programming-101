@@ -2,8 +2,8 @@
 title: Python Programming 101
 duration: "2:50"
 creator:
-    name: J Rogel-Salazar
-    city: LDN
+    name: E A Hyde
+    city: SYD
 ---
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Python Programming 101
@@ -20,7 +20,7 @@ creator:
 ### STUDENT PRE-WORK
 *Before this lesson, you should already be able to:*
 
-- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) using [Python 2.7](https://www.python.org/download/releases/2.7/) installed. Note: Make sure to choose the *Python 2.7* version for your operating system. 
+- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) using [Python 3.5](https://www.python.org/downloads/) installed. Note: Make sure to choose the *Python 3.5* version for your operating system. 
 - If you are using a PC, also install [git-bash terminal](https://git-for-windows.github.io).
 - *Optional*: Install a text editor like [Sublime Text 3](http://www.sublimetext.com) or [Atom](https://atom.io) on your computer. If you are using Anaconda, **Spyder** is included in the distribution.
 
@@ -73,7 +73,7 @@ Before we dive in, let's chat a bit about you!
 #### Our Expectations
 
 - You're ready to take charge of your learning experience.
-- You've installed Anaconda & Python 2.7.
+- You've installed Anaconda & Python 3.5.
 - You're interested in learning about Python!
 
 #### Our Objectives
