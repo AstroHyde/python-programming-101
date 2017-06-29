@@ -7,8 +7,8 @@ Instead, General Assembly provides a core set of objectives for this workshop, a
 
 ## Required Tools
 
-- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 2.7***. 
-  - *Note: we'll be using Python version 2.7 in this workshop.*
+- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 3.5 or higher***. 
+  - *Note: we'll be using Python version 3.5 in this workshop.*
 - If you are using a PC, please install the [git for windows terminal](https://git-for-windows.github.io).
 
 ## Optional Tools
@@ -37,14 +37,4 @@ It is also our experience that students should have laptops with screens of at l
 **PC/Linux:** For students on Windows, you’ll need to be using at least Microsoft Windows 8 or 10 (either 32 or 64 bit). Earlier versions of Microsoft Windows may also work. Students are welcome to bring their own PC or Linux machines, but we **cannot guarantee tech support for these devices.**
 
 
-#### Questions? Issues?
 
-1. If you see elements you would like to add, improve, or change, please feel free to submit a **pull request** with your modifications! A member of our instructional team will make sure to review and merge applicable changes.
-
-2. If you see bugs, typos, or other elements that need flagging, please file a **Github Issue**. A member of our instructional team will be sure to review and prioritize as needed.
-
-3. If you encounter any other problems not mentioned here, please submit a ticket to our [GA Helpdesk]()
-
----
-
-All set? Now it's time to check out the [curriculum materials we provide for this workshop](../02-materials/).
